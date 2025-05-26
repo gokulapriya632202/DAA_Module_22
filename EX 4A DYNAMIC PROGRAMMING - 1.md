@@ -13,8 +13,8 @@ To find longest common subsequence using Dynamic Programming.
 ## Program:
 
 ### Program to implement the longest common subsequence using Dynamic Programming.
-## Developed by: GOKULA PRIYA P  
-## Register Number: 212222040044  
+### Developed by: GOKULA PRIYA P  
+### Register Number: 212222040044  
 ```
 def lcs(u, v):
     """Return c where c[i][j] contains length of LCS of u[i:] and v[j:]."""
